@@ -1,0 +1,25 @@
+{
+  "name": "automatic-deploy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkwib/automatic-deploy-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkwib/automatic-deploy-test/issues"
+  },
+  "homepage": "https://github.com/nkwib/automatic-deploy-test#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3"
+  }
+}
